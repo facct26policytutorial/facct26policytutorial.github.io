@@ -5,6 +5,7 @@ layout: default
 # From FAccT to Policy Impact: Translating Research into Actionable Policy Briefs
 
 **Date:** TBD
+**Location:** TBD
 
 ## Session Description
 
