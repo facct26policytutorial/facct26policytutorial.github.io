@@ -25,6 +25,7 @@ By the end of the session, participants will have a concrete starting point for 
 
 ## Schedule
 
+This workshop session will be run for approximately 2 hours. 
 Please check back for a full schedule and list of panelists.
 
 ## Organizers
