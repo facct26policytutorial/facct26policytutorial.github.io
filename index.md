@@ -21,9 +21,9 @@ layout: default
 
 Research in the FAccT community often engages directly with questions of real-world impact in sociotechnical systems. These findings are typically communicated through academic publications at FAccT or similar venues, which are integral to advancing interdisciplinary knowledge and allow researchers to share and build on each other’s work. At the same time, this work is often not accessible to affected communities, policymakers, and practitioners who could act on these findings, limiting its potential to inform policy and practice. As a result, even policy-relevant research may have limited influence on real-world decision-making without additional forms of engagement with these critical stakeholders.
 
-This workshop introduces policy briefs as one practical mechanism for translating research findings into formats that can reach these audiences to bridge this gap. Policy briefs synthesize evidence for pressing policy-relevant issues and support decision-making by offering clear options and recommendations. These briefs are written in a very specific style, which is counterintuitive for academics. Instead of leading with the scientific method, hypothesis formulation and assessment, and uncertainty (as we do in academic papers), policy briefs require confident, upfront, concise descriptions of policy solutions.
+This tutorial introduces policy briefs as one practical mechanism for translating research findings into formats that can reach these audiences to bridge this gap. Policy briefs synthesize evidence for pressing policy-relevant issues and support decision-making by offering clear options and recommendations. These briefs are written in a very specific style, which is counterintuitive for academics. Instead of leading with the scientific method, hypothesis formulation and assessment, and uncertainty (as we do in academic papers), policy briefs require confident, upfront, concise descriptions of policy solutions.
 
-The workshop is structured as an interactive, hands-on session. It begins with a short introduction to the role of policy briefs in real policy processes, including examples drawn from AI governance and technology policy. Participants will analyze sample briefs to identify what makes them effective (or ineffective), focusing on framing, audience targeting, and the translation of evidence into recommendations.
+The tutorial is structured as an interactive, hands-on session. It begins with a short introduction to the role of policy briefs in real policy processes, including examples drawn from AI governance and technology policy. Participants will analyze sample briefs to identify what makes them effective (or ineffective), focusing on framing, audience targeting, and the translation of evidence into recommendations.
 
 Participants will then work in small groups or individually to begin drafting a policy brief based on their own research (or an adjacent example when this is infeasible). We will conduct guided exercises to help participants identify a target audience, articulate the policy-relevant problem, and translate their findings into specific, actionable recommendations. Facilitators will provide structured feedback throughout, with opportunities for peer discussion and iteration.
 
@@ -34,8 +34,7 @@ By the end of the session, participants will have a concrete starting point for 
 
 ## Schedule {#schedule}
 
-This workshop session will be run for approximately 2 hours. 
-Please check back for a full schedule and list of panelists.
+This tutorial session will run for approximately 2 hours. Please check back for a full schedule and list of panelists.
 
 ## Organizers {#organizers}
 
