@@ -34,7 +34,7 @@ By the end of the session, participants will have a concrete starting point for 
 
 ## Schedule {#schedule}
 
-This tutorial session will run for approximately 2 hours. Please check back for a full schedule and list of panelists.
+This tutorial session will run for 60 minutes. Please check back for an updated schedule.
 
 ## Organizers {#organizers}
 
