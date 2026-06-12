@@ -7,9 +7,9 @@ layout: default
     <p class="header-label">FAccT 2026 Tutorial</p>
     <h1>From FAccT to Policy Impact: Translating Research into Actionable Policy Briefs</h1>
     <p class="header-meta">
-      <span>Saturday, June 27, 2026; 5-6pm</span>
+      <span>Saturday, June 27, 2026; 5--6 PM EST</span>
       <span class="separator" aria-hidden="true">·</span>
-      <span>Montréal, Canada and Online</span>
+      <span>Montréal, Canada (Kafka room) and Online</span>
     </p>
   </div>
 </header>
