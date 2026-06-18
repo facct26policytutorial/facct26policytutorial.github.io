@@ -11,7 +11,7 @@ layout: default
       <span class="separator" aria-hidden="true">·</span>
       <span>Montréal, Canada (Kafka room) and Online</span>
       <span class="separator" aria-hidden="true">·</span>
-      <span>[RSVP](https://docs.google.com/forms/d/e/1FAIpQLSf9Ro5vK-KSYe8gxYDS6C8RPuBp1fb7of-seQt61s8-dE3cDA/viewform?usp=header "RSVP")</span>
+      <span><a href="https://docs.google.com/forms/d/e/1FAIpQLSf9Ro5vK-KSYe8gxYDS6C8RPuBp1fb7of-seQt61s8-dE3cDA/viewform?usp=header" title="RSVP">RSVP</a></span>
     </p>
   </div>
 </header>
