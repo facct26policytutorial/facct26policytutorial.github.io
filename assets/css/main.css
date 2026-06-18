@@ -103,6 +103,11 @@ body {
   margin: 0 0.6rem;
 }
 
+.header-meta a {
+  color: #d4ccc0;
+  text-decoration: underline;
+}
+
 /* Nav */
 .site-nav {
   background-color: #2c2218;
