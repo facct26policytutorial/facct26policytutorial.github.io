@@ -7,9 +7,11 @@ layout: default
     <p class="header-label">FAccT 2026 Tutorial</p>
     <h1>From FAccT to Policy Impact: Translating Research into Actionable Policy Briefs</h1>
     <p class="header-meta">
-      <span>Saturday, June 27, 2026; 5--6 PM EST</span>
+      <span>Saturday, June 27, 2026; 5-6 PM EST</span>
       <span class="separator" aria-hidden="true">·</span>
       <span>Montréal, Canada (Kafka room) and Online</span>
+      <span class="separator" aria-hidden="true">·</span>
+      <span>[RSVP](https://docs.google.com/forms/d/e/1FAIpQLSf9Ro5vK-KSYe8gxYDS6C8RPuBp1fb7of-seQt61s8-dE3cDA/viewform?usp=header "RSVP")</span>
     </p>
   </div>
 </header>
@@ -26,9 +28,9 @@ This tutorial introduces policy briefs as one practical mechanism for translatin
 The tutorial is structured as an interactive, hands-on session. By the end of the session, participants will have a concrete starting point for a policy brief and a clearer understanding of how to translate FAccT research into forms that can inform policy and practice. More broadly, this tutorial aims to build capacity within the community to engage more effectively with policy processes while maintaining the rigor and values that define FAccT research.
 
 
-## Schedule {#schedule}
+## Agenda {#agenda}
 
-This tutorial session will run for 60 minutes. Please check back for an updated schedule.
+This tutorial session will run for 60 minutes. Please check back for an updated agenda.
 
 ## Organizers {#organizers}
 
