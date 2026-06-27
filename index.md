@@ -33,10 +33,15 @@ The tutorial is structured as an interactive, hands-on session. By the end of th
 This tutorial session will run for 60 minutes. 
 
 1. Motivation: Why translate your research into policy recommendations?
-2. Work time: Start writing your own policy brief!
+2. Work time: Start writing your own policy brief (with guidance from policy mentors)!
 3. Discussion: Share-out, reflections
 
 **Please bring your laptops or a device to type on, if possible. Links will be shared for all materials.**
+
+## Policy Mentors {#mentors}
+- **Cynthia Bailey**: Cynthia Bailey is a Senior Lecturer in the Computer Science Department at Stanford University. In 2023-2024, she served as an AI Policy Fellow in the United States Senate through the American Association for the Advancement of Science (AAAS). Cynthia earned a Ph.D. in Computer Science from the University of California, San Diego.
+- **Serena Booth**: Serena Booth is an Assistant Professor in the Computer Science department at Brown University. She previously served as an AI Policy Advisor through a AAAS Fellowship in the U.S. Senate and worked for the Committee on Banking, Housing, and Urban Affairs to legislate, regulate, and govern AI systems in these high-stakes and high-risk areas. Serena earned a PhD in Computer Science at MIT CSAIL in 2023.
+- **Anna Lenhart**: Anna Lenhart was previously a senior advisor in the U.S. Office of Science and Technology Policy. Also served on the House of Representatives as the senior technology legislative aide to Rep Lori Trahan (117th Congress) and as a Congressional Innovation Fellow for the House Judiciary Digital Markets Investigation (116th Congress). Anna is currently a Ph.D. candidate at University of Maryland. 
 
 ## Organizers {#organizers}
 
