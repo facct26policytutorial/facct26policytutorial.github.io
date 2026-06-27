@@ -30,7 +30,13 @@ The tutorial is structured as an interactive, hands-on session. By the end of th
 
 ## Agenda {#agenda}
 
-This tutorial session will run for 60 minutes. Please check back for an updated agenda.
+This tutorial session will run for 60 minutes. 
+
+1. Motivation: Why translate your research into policy recommendations?
+2. Work time: Start writing your own policy brief!
+3. Discussion: Share-out, reflections
+
+**Please bring your laptops or a device to type on, if possible. Links will be shared for all materials.**
 
 ## Organizers {#organizers}
 
